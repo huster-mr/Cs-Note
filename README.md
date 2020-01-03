@@ -9,7 +9,7 @@
 
 | &nbsp;算法&nbsp; | 操作系统 | &nbsp;网络&nbsp; | 面向对象 | &nbsp;&nbsp;数据库&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp; | 系统设计 | &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; | 编码实践 | &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| [:pencil2:](#操作系统) | [:computer:](#computer-操作系统)|[:cloud:](#cloud-网络) | [:art:](#art-面向对象) |[:floppy_disk:](#floppy_disk-数据库)|  [:coffee:](#coffee-java)| [:bulb:](#bulb-系统设计)| [:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践)| [:memo:](#memo-后记) |
+| [:pencil2:](#操作系统) | [:computer:](#computer-操作系统)|[:cloud:](#cloud-网络) | [:art:](#面向对象) |[:floppy_disk:](#floppy_disk-数据库)|  [:coffee:](#coffee-java)| [:bulb:](#bulb-系统设计)| [:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践)| [:memo:](#memo-后记) |
 
 <br>
 
@@ -50,7 +50,7 @@
 - [HTTP](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/HTTP.md)
 - [Socket](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Socket.md)
 
-## :art: 面向对象
+## 面向对象
 
 - [设计模式](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/设计模式.md)
 - [面向对象思想](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/面向对象思想.md)
